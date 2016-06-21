@@ -40,7 +40,7 @@ R29        R0201                 1767mil        112mil       1767mil        112m
 R28        R0201                 1885mil        112mil       1885mil        112mil    1874.96mil        112mil  B        360.00 464            
 R27        R0201                  811mil         35mil        811mil         35mil     821.04mil         35mil  T        180.00 15K            
 R26        R0201                 1070mil        491mil       1070mil        491mil    1080.04mil        491mil  T        180.00 4.7K           
-R25        R0201                 1254mil        525mil       1254mil        525mil    1264.04mil        525mil  T        180.00 4.7K           
+R25        R0201                 1255mil        514mil       1255mil        514mil    1265.04mil        514mil  T        180.00 4.7K           
 R24        R0201                 1716mil    183.898mil       1716mil    183.898mil    1726.04mil    183.898mil  B        180.00 162            
 R23        R0201                 1715mil        147mil       1715mil        147mil    1725.04mil        147mil  B        180.00 162            
 R22        R0201                 1885mil    146.998mil       1885mil    146.998mil    1874.96mil    146.998mil  B        360.00 464            
@@ -54,7 +54,7 @@ R14        R0201                  749mil        438mil        749mil        438m
 R13        R0201                  499mil        558mil        499mil        558mil     509.04mil        558mil  T        180.00 10K            
 R12        R0201                  499mil        489mil        499mil        489mil     488.96mil        489mil  T          0.00 2K             
 R11        R0201                  499mil        524mil        499mil        524mil     488.96mil        524mil  T        360.00 402K           
-R10        R0201                 1254mil    559.892mil       1254mil    559.892mil    1243.96mil    559.892mil  T        360.00 10K            
+R10        R0201                 1254mil    544.892mil       1254mil    544.892mil    1243.96mil    544.892mil  T        360.00 10K            
 R9         R0201                 1254mil        595mil       1254mil        595mil    1264.04mil        595mil  T        180.00 4K             
 R8         R0201                 1021mil    591.684mil       1021mil    591.684mil    1031.04mil    591.684mil  T        180.00 4.7K           
 R7         R0201                 1154mil        594mil       1154mil        594mil    1143.96mil        594mil  T        360.00 4.7K           
